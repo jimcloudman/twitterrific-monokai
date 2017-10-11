@@ -1,5 +1,5 @@
 # twitterrific-monokai
-Simple Monokai-inspired theme for Twitterrific 5.
+Simple dark theme for Twitterrific 5, heavily inspired by [Sublime Text](http://www.sublimetext.com/)'s famous Monokai code highlighting theme.
 
 ## To install
 1. Download the [TwitterrificMonokai.plist](https://github.com/jimcloudman/twitterrific-monokai/raw/master/TwitterrificMonokai.plist) file to your computer
