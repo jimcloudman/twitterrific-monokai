@@ -37,7 +37,7 @@
 	<key>profilePositiveColor</key>
 	<string>72:160:23</string>
 	<key>profileTitleColor</key>
-	<string>255:255:255</string>
+	<string>254:252:255</string>
 	<key>retweetColor</key>
 	<string>56:149:0</string>
 	<key>standardBackgroundColor</key>
@@ -45,9 +45,9 @@
 	<key>standardHighlightedImageColor</key>
 	<string>74:66:83</string>
 	<key>standardImageColor</key>
-	<string>251:252:255</string>
+	<string>40:40:40</string>
 	<key>standardSelectedBackgroundColor</key>
-	<string>251:252:255</string>
+	<string>40:40:40</string>
 	<key>standardSelectedImageColor</key>
 	<string>120:115:120</string>
 	<key>thinLineStyle</key>
