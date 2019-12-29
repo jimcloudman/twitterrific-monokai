@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>backgroundColor</key>
-	<string>57:48:43</string>
+	<string>40:40:40</string>
 	<key>composeErrorBackgroundColor</key>
 	<string>255:0:0</string>
 	<key>composeMentionButtonBackgroundColor</key>
@@ -41,7 +41,7 @@
 	<key>retweetColor</key>
 	<string>56:149:0</string>
 	<key>standardBackgroundColor</key>
-	<string>57:48:43</string>
+	<string>68:57:51</string>
 	<key>standardHighlightedImageColor</key>
 	<string>74:66:83</string>
 	<key>standardImageColor</key>
@@ -53,27 +53,31 @@
 	<key>thinLineStyle</key>
 	<true/>
 	<key>titlebarHighlightedImageColor</key>
-	<string>42:147:253</string>
+	<string>86:73:67</string>
 	<key>titlebarImageColor</key>
-	<string>83:82:83</string>
+	<string>57:48:43</string>
 	<key>titlebarSelectedBackgroundColor</key>
 	<string>57:48:43</string>
 	<key>titlebarSelectedImageColor</key>
-	<string>0:154:244</string>
+	<string>247:122:38</string>
+	<key>titlebarVibrancyTintColor</key>
+	<string>40:40:40</string>
 	<key>tweetTypeDefault-backgroundColor</key>
 	<string>30:30:30</string>
+	<key>tweetTypeDefault-borderColor</key>
+	<string>73:63:57</string>
 	<key>tweetTypeDefault-detailColor</key>
 	<string>161:138:122</string>
 	<key>tweetTypeDefault-linkBackgroundColor</key>
 	<string>57:48:43</string>
 	<key>tweetTypeDefault-linkColor</key>
-	<string>0:154:244</string>
+	<string>247:122:38</string>
 	<key>tweetTypeDefault-selectedBackgroundColor</key>
 	<string>57:48:43</string>
 	<key>tweetTypeDefault-textColor</key>
-	<string>254:252:255</string>
+	<string>221:219:222</string>
 	<key>tweetTypeDefault-titleColor</key>
-	<string>0:154:244</string>
+	<string>247:122:38</string>
 	<key>tweetTypeMention-backgroundColor</key>
 	<string>30:30:30</string>
 	<key>tweetTypeMention-detailColor</key>
@@ -83,9 +87,9 @@
 	<key>tweetTypeMention-linkColor</key>
 	<string>243:123:0</string>
 	<key>tweetTypeMention-selectedBackgroundColor</key>
-	<string>53:12:61</string>
+	<string>74:63:57</string>
 	<key>tweetTypeMention-textColor</key>
-	<string>255:255:255</string>
+	<string>254:252:255</string>
 	<key>tweetTypeMention-titleColor</key>
 	<string>243:123:0</string>
 	<key>tweetTypeMessage-backgroundColor</key>
@@ -119,7 +123,7 @@
 	<key>tweetTypeReply-selectedBackgroundColor</key>
 	<string>57:48:43</string>
 	<key>tweetTypeReply-textColor</key>
-	<string>255:255:255</string>
+	<string>254:252:255</string>
 	<key>tweetTypeReply-titleColor</key>
 	<string>238:102:1</string>
 	<key>tweetTypeSent-backgroundColor</key>
@@ -131,9 +135,9 @@
 	<key>tweetTypeSent-linkColor</key>
 	<string>126:202:0</string>
 	<key>tweetTypeSent-selectedBackgroundColor</key>
-	<string>57:48:43</string>
+	<string>36:54:41</string>
 	<key>tweetTypeSent-textColor</key>
-	<string>255:255:255</string>
+	<string>221:219:222</string>
 	<key>tweetTypeSent-titleColor</key>
 	<string>126:202:0</string>
 	<key>tweetTypeSentMessage-backgroundColor</key>
